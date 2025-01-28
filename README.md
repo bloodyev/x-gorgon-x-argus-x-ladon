@@ -3,4 +3,4 @@ x-gorgon x-argus x-ladon algorithms
 
 ### Latest version available for testing
 ### contact me
-## Telegram @bloodyev - https://t.me/bloodyev
+## Telegram @Neo_Galaxy - https://t.me/Neo_Galaxy
